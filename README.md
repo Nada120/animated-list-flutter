@@ -4,21 +4,21 @@ An application is builded with using flutter.
 
 ## The Widget that is used in the app:
 
--statelessWidget.
--statefullWidget.
--Scaffold
--AppBar
--Text
--Center
--Column
--Padding
--ElevatedButton
--Icon
--SizedBox
--AnimatedList
--SizeTransition
--Card
--ListTile 
+-statelessWidget.  
+-statefullWidget.  
+-Scaffold.  
+-AppBar.  
+-Text.  
+-Center.  
+-Column.  
+-Padding.  
+-ElevatedButton.  
+-Icon.  
+-SizedBox.  
+-AnimatedList.  
+-SizeTransition.  
+-Card.  
+-ListTile.   
 
 ## So You Need To Knew These Widgets As a Requirements 🎯
 There is many comments to make you clear with what is the code doing
