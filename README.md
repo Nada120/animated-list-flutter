@@ -1,5 +1,4 @@
-# animated_list
-
+# animated_list 😎  
 An application is builded with using flutter.
 
 ## The Widget that is used in the app:
@@ -21,7 +20,8 @@ An application is builded with using flutter.
 -ListTile.   
 
 ## So You Need To Knew These Widgets As a Requirements 🎯
-There is many comments to make you clear with what is the code doing
+There is many comments to make you clear with what is the code doing.  
+Do not worry everything in the code is explaining and easy to understand 😏👌
 
 ## The final result
 
